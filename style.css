@@ -366,7 +366,7 @@ html {
   background-color: #222;
   display: flex;
   justify-content: space-around;
-  align-items: flex-start;
+  align-items: center;
   padding: 3rem 0;
   position: relative;
 }
@@ -418,18 +418,6 @@ html {
   cursor: pointer;
 }
 
-.copyright {
-  position: absolute;
-  bottom: 3rem;
-  font-size: 1.7rem;
-  font-weight: 200;
-  color: #eee;
-  letter-spacing: 0.1rem;
-  border-top: 0.1rem solid #888;
-  padding-top: 4rem;
-  width: 100%;
-  text-align: center;
-}
 
 /* End of Section-4 */
 
